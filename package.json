@@ -1,0 +1,48 @@
+{
+  "name": "study-schedule-generator",
+  "version": "2.0.0",
+  "description": "A web application that creates personalized study schedules based on learning preferences and available time",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
+    "server:dev": "nodemon server/index.js",
+    "client:dev": "cd client && npm start",
+    "client:build": "cd client && npm run build",
+    "client:install": "cd client && npm install",
+    "server:install": "npm install",
+    "setup": "npm run server:install && npm run client:install",
+    "test": "node test/test.js",
+    "cli": "node index.js"
+  },
+  "keywords": [
+    "study",
+    "schedule",
+    "learning",
+    "education",
+    "productivity",
+    "spaced-repetition",
+    "web-app",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "helmet": "^7.1.0",
+    "inquirer": "^9.2.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

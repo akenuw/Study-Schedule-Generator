@@ -1,0 +1,32 @@
+Study Schedule Summary
+Generated: 5/31/2025, 2:06:07 AM
+Student: Demo User
+Duration: 5 days
+Subjects: Mathematics, Science, Programming
+Daily Study Time: 3 hours
+Session Duration: 60 minutes
+
+Schedule Overview:
+==================
+
+2025-05-31 (Saturday)
+  No study sessions scheduled
+
+2025-06-01 (Sunday)
+  No study sessions scheduled
+
+2025-06-02 (Monday)
+  09:00 - 10:00 | Mathematics - Review: Geometry (60 min)
+  10:15 - 11:15 | Science - Theory Review (60 min)
+
+2025-06-03 (Tuesday)
+  09:00 - 10:00 | Mathematics - Review: Review: Biology (60 min)
+  10:15 - 11:15 | Science - Review: Geometry (60 min)
+
+2025-06-04 (Wednesday)
+  09:00 - 10:00 | Programming - Review: Review: Problem Solving (60 min)
+  10:15 - 11:15 | Programming - Chemistry (60 min)
+
+
+Total Study Time: 360 minutes
+Total Sessions: 6

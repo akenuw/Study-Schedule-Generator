@@ -1,0 +1,205 @@
+{
+  "preferences": {
+    "name": "Demo User",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Programming"
+    ],
+    "studyDuration": 60,
+    "breakDuration": 15,
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "dailyStudyTime": 3,
+    "learningStyle": "mixed",
+    "difficulty": "intermediate",
+    "includeReview": true,
+    "scheduleDays": 5,
+    "timestamp": "2025-05-31T01:06:07.681Z"
+  },
+  "days": [
+    {
+      "date": "2025-05-31",
+      "dayName": "Saturday",
+      "sessions": []
+    },
+    {
+      "date": "2025-06-01",
+      "dayName": "Sunday",
+      "sessions": []
+    },
+    {
+      "date": "2025-06-02",
+      "dayName": "Monday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Geometry",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Mathematics textbook chapter",
+            "Review Mathematics notes",
+            "Study Mathematics reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Theory Review",
+          "type": "study",
+          "difficulty": "review",
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Solve Science problems",
+            "Complete Science exercises",
+            "Work on Science assignments"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "dayName": "Tuesday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Review: Biology",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Mathematics textbook chapter",
+            "Review Mathematics notes",
+            "Study Mathematics reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Review: Geometry",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Review Science problems",
+            "Complete Science exercises",
+            "Work on Science assignments"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "dayName": "Wednesday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Review: Review: Problem Solving",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Programming textbook chapter",
+            "Review Programming notes",
+            "Study Programming reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Chemistry",
+          "type": "study",
+          "difficulty": "review",
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Solve Programming problems",
+            "Complete Programming exercises",
+            "Work on Programming assignments"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalStudyTime": 360,
+    "totalSessions": 6,
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Programming"
+    ]
+  },
+  "metadata": {
+    "createdAt": "2025-05-31T01:06:07.686Z",
+    "version": "1.0.0",
+    "preferences": {
+      "name": "Demo User",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "Programming"
+      ],
+      "studyDuration": 60,
+      "breakDuration": 15,
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "dailyStudyTime": 3,
+      "learningStyle": "mixed",
+      "difficulty": "intermediate",
+      "includeReview": true,
+      "scheduleDays": 5,
+      "timestamp": "2025-05-31T01:06:07.681Z"
+    }
+  }
+}

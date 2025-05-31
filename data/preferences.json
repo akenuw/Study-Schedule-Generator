@@ -1,0 +1,23 @@
+{
+  "name": "Demo User",
+  "subjects": [
+    "Mathematics",
+    "Science",
+    "Programming"
+  ],
+  "studyDuration": 60,
+  "breakDuration": 15,
+  "availableDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "dailyStudyTime": 3,
+  "learningStyle": "mixed",
+  "difficulty": "intermediate",
+  "includeReview": true,
+  "scheduleDays": 5,
+  "timestamp": "2025-05-31T01:06:07.681Z"
+}

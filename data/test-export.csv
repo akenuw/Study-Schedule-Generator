@@ -1,0 +1,18 @@
+Date,Day,Start Time,End Time,Duration (min),Subject,Topic,Type,Method
+2025-05-31,Saturday,,,,,No sessions,
+2025-06-01,Sunday,,,,,No sessions,
+2025-06-02,Monday,09:00,10:00,60,Mathematics,"Review: Calculus",review,"Reading"
+2025-06-02,Monday,10:15,11:15,60,Science,"Theory Review",study,"Practice"
+2025-06-02,Monday,11:30,12:30,60,Mathematics,"Review: Debugging",review,"Discussion"
+2025-06-03,Tuesday,09:00,10:00,60,Mathematics,"Review: Review: Lab Work",review,"Reading"
+2025-06-03,Tuesday,10:15,11:15,60,Science,"Review: Geometry",review,"Practice"
+2025-06-03,Tuesday,11:30,12:30,60,Mathematics,"Review: Debugging",review,"Discussion"
+2025-06-04,Wednesday,09:00,10:00,60,Science,"Review: Review: Algorithms",review,"Reading"
+2025-06-04,Wednesday,10:15,11:15,60,Programming,"Algebra",study,"Practice"
+2025-06-04,Wednesday,11:30,12:30,60,Science,"Review: Biology",review,"Discussion"
+2025-06-05,Thursday,09:00,10:00,60,Programming,"Review: Review: Algorithms",review,"Reading"
+2025-06-05,Thursday,10:15,11:15,60,History,"Spaced Review: Geometry",review,"Practice"
+2025-06-05,Thursday,11:30,12:30,60,Programming,"Review: Theory Review",review,"Discussion"
+2025-06-06,Friday,09:00,10:00,60,Programming,"Review: Review: Calculus",review,"Reading"
+2025-06-06,Friday,10:15,11:15,60,History,"Spaced Review: Review: Theory Review",review,"Practice"
+2025-06-06,Friday,11:30,12:30,60,History,"Review: Coding Practice",review,"Discussion"

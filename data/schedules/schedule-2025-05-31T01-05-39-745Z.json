@@ -1,0 +1,401 @@
+{
+  "preferences": {
+    "name": "Web App Test User",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Programming",
+      "History"
+    ],
+    "studyDuration": 60,
+    "breakDuration": 15,
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "dailyStudyTime": 4,
+    "learningStyle": "mixed",
+    "difficulty": "intermediate",
+    "includeReview": true,
+    "scheduleDays": 7,
+    "timestamp": "2025-05-31T01:05:39.617Z"
+  },
+  "days": [
+    {
+      "date": "2025-05-31",
+      "dayName": "Saturday",
+      "sessions": []
+    },
+    {
+      "date": "2025-06-01",
+      "dayName": "Sunday",
+      "sessions": []
+    },
+    {
+      "date": "2025-06-02",
+      "dayName": "Monday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Calculus",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Mathematics textbook chapter",
+            "Review Mathematics notes",
+            "Study Mathematics reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Theory Review",
+          "type": "study",
+          "difficulty": "medium",
+          "break": {
+            "duration": 15,
+            "type": "long"
+          },
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Solve Science problems",
+            "Complete Science exercises",
+            "Work on Science assignments"
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Debugging",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "low",
+          "recommendation": "Ideal for review and consolidation",
+          "method": "Discussion",
+          "activities": [
+            "Discuss Mathematics concepts",
+            "Explain Mathematics to someone",
+            "Join Mathematics study group"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-03",
+      "dayName": "Tuesday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Review: Lab Work",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Mathematics textbook chapter",
+            "Review Mathematics notes",
+            "Study Mathematics reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Review: Geometry",
+          "type": "review",
+          "difficulty": "medium",
+          "break": {
+            "duration": 15,
+            "type": "long"
+          },
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Review Science problems",
+            "Complete Science exercises",
+            "Work on Science assignments"
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "duration": 60,
+          "subject": "Mathematics",
+          "topic": "Review: Debugging",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "low",
+          "recommendation": "Ideal for review and consolidation",
+          "method": "Discussion",
+          "activities": [
+            "Discuss Mathematics concepts",
+            "Explain Mathematics to someone",
+            "Join Mathematics study group"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "dayName": "Wednesday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Review: Review: Algorithms",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Science textbook chapter",
+            "Review Science notes",
+            "Study Science reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Algebra",
+          "type": "study",
+          "difficulty": "medium",
+          "break": {
+            "duration": 15,
+            "type": "long"
+          },
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Solve Programming problems",
+            "Complete Programming exercises",
+            "Work on Programming assignments"
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "duration": 60,
+          "subject": "Science",
+          "topic": "Review: Biology",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "low",
+          "recommendation": "Ideal for review and consolidation",
+          "method": "Discussion",
+          "activities": [
+            "Discuss Science concepts",
+            "Explain Science to someone",
+            "Join Science study group"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-05",
+      "dayName": "Thursday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Review: Review: Algorithms",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Programming textbook chapter",
+            "Review Programming notes",
+            "Study Programming reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "History",
+          "topic": "Spaced Review: Geometry",
+          "type": "review",
+          "difficulty": "medium",
+          "break": {
+            "duration": 15,
+            "type": "long"
+          },
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Review History problems",
+            "Complete History exercises",
+            "Work on History assignments"
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Review: Theory Review",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "low",
+          "recommendation": "Ideal for review and consolidation",
+          "method": "Discussion",
+          "activities": [
+            "Discuss Programming concepts",
+            "Explain Programming to someone",
+            "Join Programming study group"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-06-06",
+      "dayName": "Friday",
+      "sessions": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "duration": 60,
+          "subject": "Programming",
+          "topic": "Review: Review: Calculus",
+          "type": "review",
+          "difficulty": "easy",
+          "break": {
+            "duration": 15,
+            "type": "short"
+          },
+          "cognitiveLoad": "high",
+          "recommendation": "Best time for challenging new material",
+          "method": "Reading",
+          "activities": [
+            "Review Programming textbook chapter",
+            "Review Programming notes",
+            "Study Programming reference materials"
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:15",
+          "duration": 60,
+          "subject": "History",
+          "topic": "Spaced Review: Review: Theory Review",
+          "type": "review",
+          "difficulty": "medium",
+          "break": {
+            "duration": 15,
+            "type": "long"
+          },
+          "cognitiveLoad": "medium",
+          "recommendation": "Good for practice and application",
+          "method": "Practice",
+          "activities": [
+            "Review History problems",
+            "Complete History exercises",
+            "Work on History assignments"
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "duration": 60,
+          "subject": "History",
+          "topic": "Review: Coding Practice",
+          "type": "review",
+          "difficulty": "review",
+          "cognitiveLoad": "low",
+          "recommendation": "Ideal for review and consolidation",
+          "method": "Discussion",
+          "activities": [
+            "Discuss History concepts",
+            "Explain History to someone",
+            "Join History study group"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalStudyTime": 900,
+    "totalSessions": 15,
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Programming",
+      "History"
+    ]
+  },
+  "metadata": {
+    "createdAt": "2025-05-31T01:05:39.745Z",
+    "version": "1.0.0",
+    "preferences": {
+      "name": "Web App Test User",
+      "subjects": [
+        "Mathematics",
+        "Science",
+        "Programming",
+        "History"
+      ],
+      "studyDuration": 60,
+      "breakDuration": 15,
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "dailyStudyTime": 4,
+      "learningStyle": "mixed",
+      "difficulty": "intermediate",
+      "includeReview": true,
+      "scheduleDays": 7,
+      "timestamp": "2025-05-31T01:05:39.617Z"
+    }
+  }
+}
